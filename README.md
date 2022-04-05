@@ -4,8 +4,7 @@
 
 ![Software Example](https://github.com/jaaaron/Inventory-Management-System-/blob/main/inventory.gif)
 
-'''
-
+```
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -144,5 +143,4 @@ void output(int id[],double price[],int qty[],int rop[],int n){
     
     return;
 }// output
-
-'''
+```
