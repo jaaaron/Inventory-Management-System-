@@ -2,7 +2,7 @@
 
 ###### Manage products in a stockroom with features include loading data from a file displaying items and products with barcode lookup
 
-![Software Example](https link)
+![Software Example](https://github.com/jaaaron/Inventory-Management-System-/blob/main/inventory.gif)
 '''
 #include <iostream>
 #include <fstream>
