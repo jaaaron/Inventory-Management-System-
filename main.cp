@@ -1,9 +1,3 @@
-# Inventory Management System
-
-###### Manage products in a stockroom with features include loading data from a file displaying items and products with barcode lookup
-
-![Software Example](https link)
-'''
 #include <iostream>
 #include <fstream>
 using namespace std;
@@ -142,4 +136,3 @@ void output(int id[],double price[],int qty[],int rop[],int n){
     
     return;
 }// output
-'''
